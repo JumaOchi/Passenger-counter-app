@@ -29,16 +29,6 @@ function save() {
     count = 0
 }
 
-let username = "Jay"
-//Create a variable, message, that stores the string: "You have 3 new notifications"
-
-let message = "You have 3 new notifications"
-
-console.log(message + "," + username + "!")
-
-let messageToUser = message + ", " + username + "!"
-
-console.log(messageToUser)
 
 
 
